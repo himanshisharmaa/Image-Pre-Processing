@@ -1,7 +1,5 @@
 # Image-Pre-Processing
 
-# Image Pre-Processing Toolkit
-
 This repository contains a collection of Python scripts that demonstrate **common image preprocessing techniques** used in computer vision and deep learning pipelines. These techniques help enhance image quality, remove noise, and prepare data for better model training and analysis.
 
 ---
